@@ -1,0 +1,24 @@
+{
+    "name": "json2view",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Json2View.js",
+    "scripts": {
+        "test": "json2view"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xuqianjin/Json2View.git"
+    },
+    "keywords": [
+        "json2view",
+        "react",
+        "json"
+    ],
+    "author": "jason",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/xuqianjin/Json2View/issues"
+    },
+    "homepage": "https://github.com/xuqianjin/Json2View#readme"
+}
