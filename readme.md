@@ -34,7 +34,7 @@ onClick=()=>{ alert('click'); }
 
 var data= {
 component:'div',
-onClick={()=>this.onClick()},
+onClick:this.onClick,
 className:'some-className',
 content:{component:'a',
         style:{fontWeight:'bold'},
